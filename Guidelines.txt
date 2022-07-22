@@ -1,0 +1,10 @@
+1. Github path for course material 
+https://github.com/academind/power-bi-course-resources
+
+2. If copying any power bi file then make sure to correct paths for data file 
+
+3. Refer to DATA folder for reference data from course 
+
+4. Refer to Power_Bi_Practical_Tutorials folder for practiced files
+
+5. Refer to Dashboard folder for Use cases  
