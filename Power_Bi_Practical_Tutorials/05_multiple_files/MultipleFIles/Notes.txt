@@ -1,0 +1,4 @@
+Read file - Folder 
+Filter on file name and give Sales_* so it will nto read files of other format / from sub folder.
+Extract location from file name 
+Exapnd the table and selected columns and save 
